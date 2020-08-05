@@ -20,7 +20,7 @@
 ### Extra Task for “Advanced” Juniors
 **If you feel like this task is too small and simple, you can add these things on top:**
 
-* Use Datatables.net library to show table – with our without server-side rendering.
+* Use Datatables.net library to show table – with or without server-side rendering.
 * Use more complicated front-end theme like AdminLTE.
 * Email notification: send email whenever new company is entered (use Mailgun or Mailtrap).
 * Make the project multi-language (using resources/lang folder).
