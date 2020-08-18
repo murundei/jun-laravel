@@ -14,8 +14,12 @@
 * Use Laravel’s validation function, using Request classes.
 * Use Laravel’s pagination for showing Companies/Employees list, 10 entries per page.
 * Use Laravel make:auth as default Bootstrap-based design theme, but remove ability to register.
+* *Also a point is to not use 3rd party packages in this task. Well, laravelcollective/html it’s allowed and also guzzle but another package to solve the problem with files or another stuff is prohibited.*
 
-*Also a point is to not use 3rd party packages in this project. Well, laravelcollective/html it’s allowed and also guzzle but another package to solve the problem with files or another stuff is prohibited.*
+**Create REST API with Laravel**
+* Create simple REST API with register,login,etc. functionality.
+* Use jwt-token based auth.
+* CRUD functionality to Companies and Employees via API methods.
 
 ### Extra Task for “Advanced” Juniors
 **If you feel like this task is too small and simple, you can add these things on top:**
